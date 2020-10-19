@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sarah\\workspace\\ContosoCraftsWebsite\\ContosoCrafts\\ContosoCrafts\\ContosoCrafts.csproj",
-      "projectName": "ContosoCrafts",
-      "projectPath": "C:\\Users\\sarah\\workspace\\ContosoCraftsWebsite\\ContosoCrafts\\ContosoCrafts\\ContosoCrafts.csproj",
+      "projectUniqueName": "C:\\Users\\sarah\\workspace\\ContosoCraftsWebsite\\ContosoCrafts\\ContosoCrafts\\ContosoCrafts - Backup.csproj",
+      "projectName": "ContosoCrafts - Backup",
+      "projectPath": "C:\\Users\\sarah\\workspace\\ContosoCraftsWebsite\\ContosoCrafts\\ContosoCrafts\\ContosoCrafts - Backup.csproj",
       "packagesPath": "C:\\Users\\sarah\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sarah\\workspace\\ContosoCraftsWebsite\\ContosoCrafts\\ContosoCrafts\\obj\\",
       "projectStyle": "PackageReference",

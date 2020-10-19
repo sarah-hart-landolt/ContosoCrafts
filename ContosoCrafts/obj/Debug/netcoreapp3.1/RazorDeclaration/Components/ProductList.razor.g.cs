@@ -5,7 +5,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace ContosoCrafts.Components
+namespace ContosoCrafts___Backup.Components
 {
     #line hidden
     using System;
